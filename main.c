@@ -12,7 +12,7 @@ int main()
 
    int L,R;
 
-   while(1){
+   while(1){ // this for do it for infinity
 
 
 printf("N         No colon on the line\n");
