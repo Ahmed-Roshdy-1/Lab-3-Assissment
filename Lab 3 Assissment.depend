@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1571826650 source:d:\college\level 2\data structuer\practice\assignment\lab 3 assissment\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1571826650 source:d:\college\level 2\data structuer\practice\assignment\lab 3 assissment\stack.c
+	"stack.h"
+
+1572183165 d:\college\level 2\data structuer\practice\assignment\lab 3 assissment\stack.h
+
+1571826650 source:d:\college\level 2\trem 1\data structuer\practice\lab 3 assignment\lab 3 assissment\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1572183165 d:\college\level 2\trem 1\data structuer\practice\lab 3 assignment\lab 3 assissment\stack.h
+
+1572184129 source:d:\college\level 2\trem 1\data structuer\practice\lab 3 assignment\lab 3 assissment\stack.c
+	"stack.h"
+
